@@ -1,3 +1,3 @@
 <?php
-echo "<b>Hello</b>"
+echo "<b>Hello</b>";
 
